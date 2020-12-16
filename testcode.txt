@@ -1,0 +1,13 @@
+Sample input:
+Find the prime numbers within a range of numbers:
+Input min number:
+1
+Input max number:
+10
+Sample output:
+The prime numbers between 1 and 10 are :
+2
+3
+5
+7
+shashikumar-gundala

@@ -5,3 +5,10 @@ C:\Users\vision\source\repos\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignm
 C:\Users\vision\source\repos\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.csproj.CoreCompileInputs.cache
 C:\Users\vision\source\repos\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.exe
 C:\Users\vision\source\repos\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.pdb
+C:\Users\vision\Downloads\Day2Assis\Day2Assignment\Day2Assignment\bin\Debug\Day2Assignment.exe.config
+C:\Users\vision\Downloads\Day2Assis\Day2Assignment\Day2Assignment\bin\Debug\Day2Assignment.exe
+C:\Users\vision\Downloads\Day2Assis\Day2Assignment\Day2Assignment\bin\Debug\Day2Assignment.pdb
+C:\Users\vision\Downloads\Day2Assis\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.csprojAssemblyReference.cache
+C:\Users\vision\Downloads\Day2Assis\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.csproj.CoreCompileInputs.cache
+C:\Users\vision\Downloads\Day2Assis\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.exe
+C:\Users\vision\Downloads\Day2Assis\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.pdb
